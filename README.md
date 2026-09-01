@@ -197,7 +197,7 @@ Structural-Programming-Language-CSE/
 - **Some programs** are directly from W3Schools examples
 - **Some programs** are original exercises designed for extra practice
 - **All code** is written in clean, beginner-friendly C
-- **Instructor** is Abir Ahmed from SUST, Software Engineering
+- **Instructor** is Abir Ahmed from SUST, Software Engineering (Lecturer, SEC)
 
 ---
 
