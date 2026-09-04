@@ -116,7 +116,7 @@ This repository is **actively maintained**. New programs are added almost daily 
 
 2. **Navigate to a topic folder**
    ```bash
-   cd "Structural Programming Language CSE/12_If_Else"
+   cd "Structural Programming Language CSE/assignment1/13_If_Else"
    ```
 
 3. **Compile and run**
@@ -130,7 +130,7 @@ This repository is **actively maintained**. New programs are added almost daily 
 ## Topics will be Covered
 
 <details>
-<summary><strong>📝 Fundamentals (01-10)</strong></summary>
+<summary><strong>📝 Fundamentals (01-11)</strong></summary>
 
 - [ ] Introduction to C
 - [ ] Getting Started
@@ -139,6 +139,7 @@ This repository is **actively maintained**. New programs are added almost daily 
 - [ ] C Comments
 - [ ] C Variables
 - [ ] C Data Types
+- [ ] C Memory Sizes
 - [ ] C Type Conversion
 - [ ] C Constants
 - [ ] C Operators
@@ -146,7 +147,7 @@ This repository is **actively maintained**. New programs are added almost daily 
 </details>
 
 <details>
-<summary><strong>🔀 Control Flow (11-16)</strong></summary>
+<summary><strong>🔀 Control Flow (12-17)</strong></summary>
 
 - [ ] C Booleans
 - [ ] C If Else
@@ -167,26 +168,28 @@ This repository is **actively maintained**. New programs are added almost daily 
 Structural-Programming-Language-CSE/
 ├── README.md
 ├── .gitignore
-├── 01_Intro/
-│   └── aboutC.c
-├── 02_Get_Started/
-│   └── helloWorld.c
-├── 03_Syntax/
-│   └── learningC.c
-├── 04_Output/
-│   └── printNumbers.c
-├── 05_Comments/
-├── 06_Variables/
-├── 07_Data_Types/
-├── 08_Type_Conversion/
-├── 09_Constants/
-├── 10_Operators/
-├── 11_Booleans/
-├── 12_If_Else/
-├── 13_Switch/
-├── 14_While_Loop/
-├── 15_For_Loop/
-└── 16_Break_Continue/
+└── assignment1/
+    ├── 01_Intro/
+    │   └── aboutC.c
+    ├── 02_Get_Started/
+    │   └── helloWorld.c
+    ├── 03_Syntax/
+    │   └── learningC.c
+    ├── 04_Output/
+    │   └── printNumbers.c
+    ├── 05_Comments/
+    ├── 06_Variables/
+    ├── 07_Data_Types/
+    ├── 08_Memory_Sizes/
+    ├── 09_Type_Conversion/
+    ├── 10_Constants/
+    ├── 11_Operators/
+    ├── 12_Booleans/
+    ├── 13_If_Else/
+    ├── 14_Switch/
+    ├── 15_While_Loop/
+    ├── 16_For_Loop/
+    └── 17_Break_Continue/
 ```
 
 ---
